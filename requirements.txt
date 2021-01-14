@@ -1,0 +1,8 @@
+matplotlib==3.3.3
+scipy==1.1.0
+tensorflow_gpu==1.15.0
+opencv_python==4.5.1.48
+numpy==1.19.4
+streamlit==0.74.1
+metrics==0.3.3
+Pillow==8.1.0
