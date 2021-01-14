@@ -1,0 +1,2 @@
+model_checkpoint_path: "pretrained_r3d"
+all_model_checkpoint_paths: "pretrained_r3d"
